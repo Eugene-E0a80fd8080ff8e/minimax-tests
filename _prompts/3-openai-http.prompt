@@ -1,0 +1,9 @@
+#!/usr/bin/env -S llmcoder --model o3
+
+Use 2-tts.py as a starting point. Modify it and save the modified as 3-tts.py .
+
+Do not use OpenAI Python API library. Use https call instead.
+Make it use an OpenAI-compatible endpoint, explicitly providing it with OpenAI endpoint URL.
+
+Save the result as 3-tts.py .
+ 

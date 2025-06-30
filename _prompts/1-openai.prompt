@@ -1,0 +1,16 @@
+####
+
+#!/usr/bin/env -S llmcoder --model o3
+
+Create an example usage of OpenAI text-to-audio model.
+Use model "gpt-4o-mini-tts".
+Use voice "alloy"
+
+Use Python and OpenAI API library.
+
+this should be a command-line tool what takes a string as an input and outputs a audio file.
+
+The key for OpenAI services is available in environment.
+
+output to a single file named "1-tts.py"
+

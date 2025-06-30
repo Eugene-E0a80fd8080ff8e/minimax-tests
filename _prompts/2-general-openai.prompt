@@ -1,0 +1,8 @@
+#!/usr/bin/env -S llmcoder --model o3
+
+modify 1-tts.py to use litellm.
+
+Make it use an OpenAI-compatible endpoint, explicitly providing it with OpenAI endpoint URL.
+
+Save the result as 2-tts.py
+ 
